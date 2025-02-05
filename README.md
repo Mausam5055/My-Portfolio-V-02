@@ -1,5 +1,7 @@
 # 🚀 My Portfolio (Version 2)
 
+![Portfolio Preview](public/preview.jpg)
+
 ## 🌟 Introduction
 Welcome to Version 2 of my personal portfolio! This version is built with simplicity and efficiency in mind, using only HTML, CSS, and JavaScript. It features a clean and elegant design, smooth animations, and a fully responsive layout to ensure an optimal user experience across all devices. Though minimalistic in approach, it effectively showcases my skills, achievements, and personal journey.
 
