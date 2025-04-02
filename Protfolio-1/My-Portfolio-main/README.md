@@ -1,93 +1,53 @@
-# 🚀 My Portfolio (Version 2)
+# 🚀 Portfolio Website
 
-![Portfolio Version](https://img.shields.io/badge/Version-2.0-blue.svg)
-![Tech Stack](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-orange)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
+A modern and responsive portfolio website built with cutting-edge web technologies.
 
-## 📖 Table of Contents
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://app.netlify.com/sites/your-site/deploys)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-- [🌟 Introduction](#-introduction)
-- [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
-- [📂 Sections Included](#-sections-included)
-- [🚀 Live Demo](#-live-demo)
-- [🔧 Installation & Setup](#-installation--setup)
-- [📬 Contact Me](#-contact-me)
+> 🌐 **[Live Demo](https://mausamkar.netlify.app/)** | 📱 **Responsive Design** | ⚡ **Fast Performance**
 
----
+## ✨ Features
 
-## 🌟 Introduction
-
-Welcome to **Version 2** of my personal portfolio! This version is built with **simplicity and efficiency** in mind, using only **HTML, CSS, and JavaScript**. It features a **clean and elegant design**, smooth animations, and a fully **responsive layout** to ensure an optimal user experience across all devices. Though minimalistic in approach, it effectively showcases my **skills, achievements, and personal journey**.
-
----
+- 🎨 Modern and clean design
+- 📱 Fully responsive layout
+- ⚡ Smooth animations and transitions
+- 🌟 Interactive UI elements
+- 📬 Contact form integration
+- 💬 Live chat support
 
 ## 🛠️ Tech Stack
 
-This portfolio is built using core web technologies to ensure **fast loading speeds** and **smooth user interactions**:
+<div align="center">
 
-### **Frontend Technologies:**
-- ✅ **HTML5** – The structural foundation of the portfolio
-- ✅ **CSS3** – Custom styles, layouts, and responsive design
-- ✅ **JavaScript** – Enhancing interactivity and animations
+[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)
+[![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
-### **Styling & Animations:**
-- 🎨 **CSS Flexbox & Grid** – For a responsive and well-structured layout
-- 🎭 **CSS Animations & Transitions** – Smooth hover effects and engaging visuals
-- ⚡ **Vanilla JavaScript** – Lightweight interactions without any frameworks
+</div>
 
-### **Deployment & Hosting:**
-- 🚀 **GitHub Pages** – Free and reliable hosting for seamless accessibility
+### 🔧 Additional Libraries
 
----
+- [Particle.js](https://vincentgarreau.com/particles.js/) - Interactive particle effects
+- [Typed.js](https://mattboldt.com/typed.js/) - Typing animations
+- [Tilt.js](https://gijsroge.github.io/tilt.js/) - Smooth tilt effects
+- [Scroll Reveal](https://scrollrevealjs.org/) - Scroll animations
+- [Tawk.to](https://www.tawk.to/) - Live chat integration
+- [Font Awesome](https://fontawesome.com/) - Icon library
+- JSON for data management
 
-## 📂 Sections Included
+## 🤝 Connect With Me
 
-This portfolio is structured into multiple sections, each designed to highlight my **personal and professional journey effectively**:
+<div align="center">
 
-✅ **Hero Section** – A welcoming introduction featuring my name, designation, and a brief tagline.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
 
-✅ **About Me Section** – A concise overview of who I am, my interests, and my background.
-
-✅ **Skills Section** – A visually structured list of my technical and soft skills.
-
-✅ **Education Section** – A timeline displaying my academic background and learning journey.
-
-✅ **Projects Section** – A showcase of my completed projects with descriptions and live/demo links.
-
-✅ **Contact Section** – A section with my contact details and links to my social media profiles.
+</div>
 
 ---
 
-## 🚀 Live Demo
-
-Explore the live version of my portfolio:
-
-🌐 **Live Link:** _(Coming Soon)_  
-🔗 **Alternate Link:** _(Coming Soon)_
-
----
-
-## 🔧 Installation & Setup
-
-Want to explore or modify my portfolio? Follow these simple steps:
-
-### **1️⃣ Clone the Repository:**
-```sh
-git clone https://github.com/Mausam5055/My-Portfolio-V-02.git
-cd My-Portfolio-V-02
-```
-
-### **2️⃣ Open the Project:**
-Simply open the `index.html` file in your browser to view the portfolio.
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out to me through any of the following platforms:
-
-🔹 **GitHub:** [github.com/Mausam5055](https://github.com/Mausam5055)  
-🔹 **LinkedIn:** [linkedin.com/in/mausam-kar-6388861a7](https://linkedin.com/in/mausam-kar-6388861a7)  
-
-Let's connect and collaborate on amazing projects! 🚀
+<div align="center">
+  Made with ❤️ by Mausam Kar
+</div>
